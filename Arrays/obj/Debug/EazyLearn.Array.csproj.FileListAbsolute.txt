@@ -1,0 +1,6 @@
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\RoughSpace\RoughSpace\RoughSpace\obj\Debug\EazyLearn.Array.csproj.CoreCompileInputs.cache
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\RoughSpace\RoughSpace\RoughSpace\obj\Debug\RoughSpace.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\RoughSpace\RoughSpace\RoughSpace\obj\Debug\RoughSpace.pdb
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\RoughSpace\RoughSpace\RoughSpace\bin\Debug\RoughSpace.exe.config
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\RoughSpace\RoughSpace\RoughSpace\bin\Debug\RoughSpace.exe
+C:\Users\sulfikkar.e\Desktop\Sulfikkar E S\RoughSpace\RoughSpace\RoughSpace\bin\Debug\RoughSpace.pdb
