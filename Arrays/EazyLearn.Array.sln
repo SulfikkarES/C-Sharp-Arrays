@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.1622
+VisualStudioVersion = 15.0.28307.1758
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EazyLearn.Array", "RoughSpace\EazyLearn.Array.csproj", "{721D751A-3217-46B3-99C3-311EE84BD443}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EazyLearn.Array", "EazyLearn.Array.csproj", "{721D751A-3217-46B3-99C3-311EE84BD443}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CBC42DAE-CA6F-484D-B8F8-F32CD668F1AD}
+		SolutionGuid = {6008EE7F-0209-416B-AB3D-9A7F79CB140A}
 	EndGlobalSection
 EndGlobal
